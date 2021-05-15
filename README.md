@@ -1,3 +1,5 @@
+# This has been [moved](https://github.com/ajh123-development/HistorySurvival) !
+
 # History Survival
 Conqueror of Empires is a turn-based strategy game where up to 4 local players battle to be victorious, by expanding their empires, and controlling units to conquer cities and attack the enemy.
 
